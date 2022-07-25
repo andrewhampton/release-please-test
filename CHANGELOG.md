@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/andrewhampton/release-please-test/compare/v2.0.0...v2.1.0) (2022-07-25)
+
+
+### Features
+
+* squash test ([#10](https://github.com/andrewhampton/release-please-test/issues/10)) ([1996890](https://github.com/andrewhampton/release-please-test/commit/1996890238b720b37ccf03d01477d15f273fb178))
+
+
+### Bug Fixes
+
+* add version to version.rb ([8b5868e](https://github.com/andrewhampton/release-please-test/commit/8b5868e8a53de6052d93f1fa08b635a15533719c))
+
 ## [2.0.0](https://github.com/andrewhampton/release-please-test/compare/v1.1.0...v2.0.0) (2022-07-25)
 
 
